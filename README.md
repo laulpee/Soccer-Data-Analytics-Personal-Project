@@ -1,5 +1,9 @@
 # Soccer-Data-Analytics-Personal-Project
-Soccer Data Analytics for Goals &amp; Shooting Statistics
+Note: The files in the repository consist of the Python analysis portion only of the Soccer Data Analytics for Goals 
+& Shooting Statistics Personal Project. For the full documentation of the project, please refer to the "Soccer Data 
+Analysis for Goals & Shooting Statistics Documentation" PDF
+
+
 
 Project: Soccer Data Analysis for Goals & Shooting Statistics
 Type: Personal Project
