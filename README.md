@@ -1,7 +1,7 @@
 # Soccer-Data-Analytics-Personal-Project
 Note: The files in the repository consist of the Python analysis portion only of the Soccer Data Analytics for Goals 
 & Shooting Statistics Personal Project. For the full documentation of the project, please refer to the "Soccer Data 
-Analysis for Goals & Shooting Statistics Documentation" PDF
+Analytics Personal Project Documentation" PDF
 
 
 
@@ -29,5 +29,5 @@ Goals on the x-axis and plots the 2nd-Half Goals on the y-axis for each player i
 CSV file to run the analysis.
 
 
-For more details on the context of the project and analysis codes, please refer to the "Soccer Data Analysis for Goals & 
-Shooting Statistics Documentation" PDF.
+For more details on the context of the project and analysis codes, please refer to the "Soccer Data Analytics Personal 
+Project Documentation" PDF.
